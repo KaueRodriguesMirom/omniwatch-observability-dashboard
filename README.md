@@ -6,7 +6,7 @@
 
 > Um dashboard moderno para monitoramento em tempo real da saúde, latência e disponibilidade de microsserviços e infraestrutura de rede.
 
-🔗 **[Acesse o projeto rodando ao vivo aqui] (COLOQUE_O_LINK_DO_DEPLOY_AQUI)**
+🔗 **[Acesse o projeto rodando ao vivo aqui] (https://omniwatch-observability-dashboard.vercel.app/)**
 
 ## 🎯 Sobre o Projeto
 No ecossistema de TI corporativo (especialmente em telecomunicações e grandes transações), a observabilidade não é um luxo, é uma necessidade. O **OmniWatch** foi desenvolvido para simular a visão de um NOC (Network Operations Center) ou time de SRE (Site Reliability Engineering). 
